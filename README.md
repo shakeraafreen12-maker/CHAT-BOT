@@ -69,6 +69,7 @@ Step-by-Step Workflow:
   ❌ Cannot handle complex or unseen queries
   ❌ No context awareness
   ❌ Limited scalability without NLP/ML
+  
 🔮 Future Enhancements
   ✅ Integrate NLP libraries (NLTK / spaCy)
   ✅ Convert to ML-based chatbot using TensorFlow / PyTorch
@@ -76,6 +77,7 @@ Step-by-Step Workflow:
   ✅ Build web app using Flask / FastAPI
   ✅ Add voice support (Speech Recognition)
   ✅ Deploy on cloud (AWS / Render / Hugging Face)
+  
 🎯 Skills Demonstrated
  - Python Programming
  - Problem Solving
