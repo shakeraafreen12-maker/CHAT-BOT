@@ -1,8 +1,8 @@
-🤖 Rule-Based Chatbot using Python & JSON
+🤖 Rule-Based Chatbot using Python & JSON :
 
 A simple yet effective rule-based chatbot built using Python that responds to user queries by matching input patterns defined in a JSON dataset. This project demonstrates fundamental concepts of Natural Language Processing (NLP), pattern matching, and data-driven design.
 
-📌 Project Overview
+📌 Project Overview :
 
 This chatbot is designed to simulate basic human conversation using predefined intents. It reads user input, processes it, and returns an appropriate response based on pattern matching.
 
@@ -12,7 +12,7 @@ How chatbots work internally
 How structured data (JSON) can drive AI behavior
 Basic NLP concepts without heavy libraries
 
-🚀 Key Features
+🚀 Key Features :
   🔹 Pattern-based response system
   🔹 JSON-driven conversational dataset
   🔹 Randomized responses for natural interaction
@@ -20,7 +20,8 @@ Basic NLP concepts without heavy libraries
   🔹 Easy to extend and customize
   🔹 Console-based chatbot interface
 
-🛠️ Tech Stack & Skills Used
+🛠️ Tech Stack & Skills Used :
+
   💻 Programming Language
      Python – Core logic implementation
   📦 Libraries Used
@@ -64,7 +65,8 @@ Step-by-Step Workflow:
 7. Exit Condition
  - Chat ends when user types bye or goodbye
 
-🧩 Limitations
+🧩 Limitations : 
+
   ❌ No real understanding of language (pure pattern matching)
   
   ❌ Cannot handle complex or unseen queries
@@ -73,7 +75,8 @@ Step-by-Step Workflow:
   
   ❌ Limited scalability without NLP/ML
   
-🔮 Future Enhancements
+🔮 Future Enhancements:
+
   ✅ Integrate NLP libraries (NLTK / spaCy)
   
   ✅ Convert to ML-based chatbot using TensorFlow / PyTorch
@@ -87,6 +90,7 @@ Step-by-Step Workflow:
   ✅ Deploy on cloud (AWS / Render / Hugging Face)
   
 🎯 Skills Demonstrated
+
  - Python Programming
  - Problem Solving
  - Data Handling with JSON
