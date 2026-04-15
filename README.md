@@ -66,16 +66,24 @@ Step-by-Step Workflow:
 
 🧩 Limitations
   ❌ No real understanding of language (pure pattern matching)
+  
   ❌ Cannot handle complex or unseen queries
+  
   ❌ No context awareness
+  
   ❌ Limited scalability without NLP/ML
   
 🔮 Future Enhancements
   ✅ Integrate NLP libraries (NLTK / spaCy)
+  
   ✅ Convert to ML-based chatbot using TensorFlow / PyTorch
+  
   ✅ Add GUI (Tkinter / Streamlit)
+  
   ✅ Build web app using Flask / FastAPI
+  
   ✅ Add voice support (Speech Recognition)
+  
   ✅ Deploy on cloud (AWS / Render / Hugging Face)
   
 🎯 Skills Demonstrated
